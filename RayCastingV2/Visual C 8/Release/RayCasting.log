@@ -1,0 +1,209 @@
+﻿  main.cpp
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Spy/Spy.h(32): warning C4100: 'message' : paramètre formel non référencé
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Spy/Spy.h(32): warning C4100: 'value' : paramètre formel non référencé
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/CastedRay.h(39): warning C4355: 'this' : utilisé dans la liste des initialiseurs membre de base
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/CastedRay.h(43): warning C4355: 'this' : utilisé dans la liste des initialiseurs membre de base
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/PointLight.h(79): warning C4100: 'intersection' : paramètre formel non référencé
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Geometry.h(195): warning C4189: 'index' : variable locale initialisée mais non référencée
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Cone.h(40): warning C4244: 'argument' : conversion de 'int' en 'const float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Sphere.h(40): warning C4189: 'center' : variable locale initialisée mais non référencée
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Visualizer/Visualizer.h(170): warning C4244: 'initialisation' : conversion de 'float' en 'unsigned char', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Visualizer/Visualizer.h(171): warning C4244: 'initialisation' : conversion de 'float' en 'unsigned char', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Visualizer/Visualizer.h(172): warning C4244: 'initialisation' : conversion de 'float' en 'unsigned char', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Math/RandomDirection.h(40): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(124): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(126): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(126): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(155): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(160): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(203): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(246): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(315): warning C4244: 'initialisation' : conversion de 'const float' en 'int', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(321): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(428): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(412): warning C4189: 'triangleEmissive' : variable locale initialisée mais non référencée
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(491): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(475): warning C4189: 'triangleEmissive' : variable locale initialisée mais non référencée
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(518): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(516): warning C4100: 'indiceRefraction' : paramètre formel non référencé
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(541): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(575): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(588): warning C4244: '=' : conversion de 'LONGLONG' en 'double', perte possible de données
+main.cpp(40): warning C4189: 'mirror' : variable locale initialisée mais non référencée
+main.cpp(84): warning C4189: 'floor' : variable locale initialisée mais non référencée
+main.cpp(189): warning C4189: 'flintGlass' : variable locale initialisée mais non référencée
+main.cpp(188): warning C4189: 'soda' : variable locale initialisée mais non référencée
+main.cpp(184): warning C4189: 'purple' : variable locale initialisée mais non référencée
+main.cpp(190): warning C4189: 'diamond' : variable locale initialisée mais non référencée
+main.cpp(183): warning C4189: 'blue' : variable locale initialisée mais non référencée
+main.cpp(186): warning C4189: 'ice' : variable locale initialisée mais non référencée
+main.cpp(232): warning C4189: 'mirror' : variable locale initialisée mais non référencée
+main.cpp(240): warning C4189: 'emissiveGreen' : variable locale initialisée mais non référencée
+main.cpp(241): warning C4189: 'emissiveYellow' : variable locale initialisée mais non référencée
+main.cpp(316): warning C4100: 'argv' : paramètre formel non référencé
+main.cpp(316): warning C4100: 'argc' : paramètre formel non référencé
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=Math::Vector3,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(721) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=Math::Vector3,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(773) : voir la référence à l'instanciation de la classe modèle 'std::_Deque_val<_Ty,_Alloc>' en cours de compilation
+          with
+          [
+              _Ty=Math::Vector3,
+              _Alloc=aligned_allocator<Math::Vector3,16>
+          ]
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Geometry.h(26) : voir la référence à l'instanciation de la classe modèle 'std::deque<_Ty,_Ax>' en cours de compilation
+          with
+          [
+              _Ty=Math::Vector3,
+              _Ax=aligned_allocator<Math::Vector3,16>
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=Math::Vector3 *,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(724) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=Math::Vector3 *,
+              Alignment=16
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=Geometry::Triangle,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(721) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=Geometry::Triangle,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(773) : voir la référence à l'instanciation de la classe modèle 'std::_Deque_val<_Ty,_Alloc>' en cours de compilation
+          with
+          [
+              _Ty=Geometry::Triangle,
+              _Alloc=aligned_allocator<Geometry::Triangle,16>
+          ]
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Geometry.h(28) : voir la référence à l'instanciation de la classe modèle 'std::deque<_Ty,_Ax>' en cours de compilation
+          with
+          [
+              _Ty=Geometry::Triangle,
+              _Ax=aligned_allocator<Geometry::Triangle,16>
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=Geometry::Triangle *,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(724) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=Geometry::Triangle *,
+              Alignment=16
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=Geometry::PointLight,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(721) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=Geometry::PointLight,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(773) : voir la référence à l'instanciation de la classe modèle 'std::_Deque_val<_Ty,_Alloc>' en cours de compilation
+          with
+          [
+              _Ty=Geometry::PointLight,
+              _Alloc=aligned_allocator<Geometry::PointLight,16>
+          ]
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\Geometry/Scene.h(41) : voir la référence à l'instanciation de la classe modèle 'std::deque<_Ty,_Ax>' en cours de compilation
+          with
+          [
+              _Ty=Geometry::PointLight,
+              _Ax=aligned_allocator<Geometry::PointLight,16>
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=Geometry::PointLight *,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(724) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=Geometry::PointLight *,
+              Alignment=16
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(121): warning C4100: 'n' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(122) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::deallocate(T *const ,const size_t) const' de la classe modèle
+          with
+          [
+              T=std::_Container_proxy,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(730) : voir la référence à l'instanciation de la classe modèle 'aligned_allocator<T,Alignment>' en cours de compilation
+          with
+          [
+              T=std::_Container_proxy,
+              Alignment=16
+          ]
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\deque(726) : lors de la compilation de la fonction membre 'std::_Deque_val<_Ty,_Alloc>::_Deque_val(_Alloc)' de la classe modèle
+          with
+          [
+              _Ty=Math::Vector3,
+              _Alloc=aligned_allocator<Math::Vector3,16>
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(63): warning C4100: 'p' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(64) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::destroy(T *const ) const' de la classe modèle
+          with
+          [
+              T=Math::Vector3,
+              Alignment=16
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(63): warning C4100: 'p' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(64) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::destroy(T *const ) const' de la classe modèle
+          with
+          [
+              T=Geometry::Triangle,
+              Alignment=16
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(63): warning C4100: 'p' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(64) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::destroy(T *const ) const' de la classe modèle
+          with
+          [
+              T=Geometry::PointLight,
+              Alignment=16
+          ]
+C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(63): warning C4100: 'p' : paramètre formel non référencé
+          C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\RayCasting\System/aligned_allocator.h(64) : lors de la compilation de la fonction membre 'void aligned_allocator<T,Alignment>::destroy(T *const ) const' de la classe modèle
+          with
+          [
+              T=std::_Container_proxy,
+              Alignment=16
+          ]
+     Création de la bibliothèque C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\Visual C 8\\Release\RayCasting.lib et de l'objet C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\Visual C 8\\Release\RayCasting.exp
+  Génération de code en cours
+  Fin de la génération du code
+  RayCasting.vcxproj -> C:\Users\vincent\Documents\ESIR\2A\RayCasting\RayCastingV2\Visual C 8\\Release\RayCasting.exe
